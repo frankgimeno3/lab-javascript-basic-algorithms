@@ -1,4 +1,4 @@
-// ITERATION2
+// ITERATION1
 let hacker1 = "Pepito";
 let hacker2 = "Manolo";
 console.log(`The navigator's name is ${hacker2}`);
